@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function () {
   window.addEventListener('scroll', changeBackgroundColor);
 
 
-  //to rotate the specific arrow-icon in the prject section
+  //to rotate the specific arrow-icon in the project section
   const proj_buttons = document.querySelectorAll(".accordion-header button");
   console.log("Accordian buttons found!")
   console.log(proj_buttons);
